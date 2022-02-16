@@ -1,0 +1,113 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(../images/banner.png);
+    width: 100%;
+    height: auto;
+}
+.container {
+    display: flex;
+}
+.containerleft {
+    margin-left: 100px;
+}
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+    margin-left: 50px;
+}
+.logo img {
+    justify-content: center;
+    width: 500px;
+}
+.menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+nav ul,
+nav li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+nav ul {
+    display: flex;
+}
+nav a {
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #727272;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+nav .active a,
+nav a:hover {
+    background-color: #727272;
+    color: #ffffff;
+    border-radius: 10px;
+}    
+.descricao {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 40px;
+    text-shadow: 1px 1px #999999;
+}
+#list1_1 {
+    list-style: none;
+    text-align: left;
+    margin-left: 40px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.containerbottom {
+    display: flex;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #727272;
+    font-size: 15px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.social, .contact {
+    text-align: center;
+}
+.social_img img {
+    width: 50px;
+    height: auto;
+    margin-top: 20px;
+}
+.social_img2 img {
+    width: 30px;
+    height: auto;
+}
+#list2_1 {
+    color: #5c5c5c;
+    font-size: 15px;
+    margin-bottom: 3px;
+    padding-bottom: 3px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer_copy {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #727272;
+    text-align: center;
+    margin-top: 40px;
+    padding: 40px;
+}
+.footer_copy a {
+    text-decoration: none;
+    color: #ffffff;
+    
+}

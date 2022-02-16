@@ -1,0 +1,1 @@
+Inclusão dos exercícios e projetos realizados nas aulas de HTML e CSS. Também foi criado o arquivo README.

@@ -1,0 +1,337 @@
+* {
+    font-family: 'Lato', sans-serif;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+header {
+    display: flex;
+    height: 65px;
+    background-color: #010101;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.logo {
+    display: flex;
+    align-items: center;
+    margin-left: 5px;
+    width: auto;
+}
+.text_left {
+    display: block;
+    align-items: center;
+}
+.text_left h1 a {
+    text-decoration: none;
+    align-items: center;
+    color: #ffffff;
+    font-size: 20px;
+    margin: 0;
+    margin-left: 4px;
+    padding: 0;
+}
+.text_left h1 {
+    margin: 0;
+    padding: 0;
+}
+.text_left h2 {
+    margin: 0;
+    padding: 0;
+}
+.text_left h2 a {
+    text-decoration: none;
+    align-items: center;
+    color: #9b9dad;
+    font-size: 14px;
+    margin: 0;
+    margin-left: 4px;
+    padding: 0;
+}
+.text_left h2 a:hover {
+    text-decoration: none;
+    align-items: center;
+    color: #ffffff;
+    font-size: 14px;
+    margin: 0;
+    margin-left: 4px;
+    padding: 0;
+}
+h2 {
+    display: flex;
+}
+#h2_button a {
+    display: block;
+    font-size: 11px;
+    background-color: #56dc82;
+    border-radius: 3px;
+    width: 58px;
+    height: 16px;
+    color: #000000;
+    margin: 0;
+    margin-left: 6px;
+    margin-top: 2px;
+    padding: 0;
+    text-align: center;
+}
+
+#h2_button a:hover {
+    display: block;
+    font-size: 11px;
+    background-color: #248c46;
+    border-radius: 3px;
+    width: 58px;
+    height: 16px;
+    color: #ffffff;
+    margin: 0;
+    margin-left: 6px;
+    margin-top: 2px;
+    padding: 0;
+    text-align: center;
+}
+.menu {
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+}
+a .mbutton1 {
+    display: inline-block;
+    background-color: #444857;
+    border-radius: 5px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 18px;
+    padding-right: 18px;
+    margin-right: 9px;
+}
+a .mbutton1:hover {
+    display: inline-block;
+    background-color: #5a5f73;
+    border-radius: 5px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 18px;
+    padding-right: 18px;
+    margin-right: 9px;
+}
+a .mbutton2 {
+    display: inline-block;
+    background-color: #444857;
+    border-radius: 5px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 18px;
+    padding-right: 18px;
+    margin-right: 9px;
+}
+a .mbutton2:hover {
+    display: inline-block;
+    background-color: #5a5f73;
+    border-radius: 5px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 18px;
+    padding-right: 18px;
+    margin-right: 9px;
+}
+a .mbutton3 {
+    display: inline-block;
+    background-color: #56dc82;
+    color: #000000;
+    border-radius: 5px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 18px;
+    padding-right: 18px;
+    margin-right: 9px;
+}
+a .mbutton3:hover {
+    display: inline-block;
+    background-color: #248c46;
+    color: #ffffff;
+    border-radius: 5px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 18px;
+    padding-right: 18px;
+    margin-right: 9px;
+}
+a .mbutton4 {
+    display: inline-block;
+    background-color: #444857;
+    border-radius: 5px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 18px;
+    padding-right: 18px;
+    margin-right: 9px;
+}
+a .mbutton4:hover {
+    display: inline-block;
+    background-color: #5a5f73;
+    border-radius: 5px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 18px;
+    padding-right: 18px;
+    margin-right: 9px;
+}
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+#form .containerheadline {
+    display: flex;
+    flex-direction: column;
+    background-image: url(../images/fundoeditado.png);
+    background-position: center;
+    background-size: cover;
+    height: auto; 
+}
+.form_headline h1 {
+    text-align: center;
+    color: #ffffff;
+    font-size: 34px;
+    margin-top: 52px;
+    margin-bottom: 0;
+}
+.form_headline h3 {
+    font-weight: lighter;
+    text-align: center;
+    color: #ffffff;
+    font-size: 20px;
+    font-style: italic;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.containerform {
+    display: flex;
+    justify-content: center;
+}
+.form_desc {
+    justify-content: center;
+    background-color: #262646;
+    border-radius: 3px;
+    width: 720px;
+    color: #ffffff;
+    padding: 40px;
+    margin-bottom: 15px;
+}
+.form_desc label {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    margin: 0;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    padding: 0.25px;
+}
+.form_desc #inpText {
+    font-family: 'Poppins', sans-serif;
+    color: #757575;
+    font-size: 16px;
+    border-radius: 5px;
+    margin: 0;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    height: 40px;
+}
+#dropdown, #most_like {
+    font-family: 'Poppins', sans-serif;
+    color: #757575;
+    font-size: 16px;
+    border-radius: 5px;
+    margin: 0;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    height: 40px;
+}
+#definitely, #maybe, #notsure {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    border-radius: 5px;
+    margin: 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    width: 20px;
+    height: 20px;
+}
+#frontendprojects, 
+#backendprojects, 
+#datavisualization, 
+#challenges, 
+#opensourcecommunity,
+#gitterhelprooms, 
+#videos, 
+#citymeetups, 
+#wiki, 
+#forum,
+#additionalcourses {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    border-radius: 5px;
+    margin: 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    width: 20px;
+    height: 20px;
+}
+#checkOp {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    border-radius: 5px;
+    margin: 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    width: 20px;
+    height: 20px;
+}
+#divText {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-top: 30px;
+
+}
+textarea {
+    font-family: 'Poppins', sans-serif;
+    color: #757575;
+    font-size: 16px;
+    margin: 0;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    height: 120px;
+    resize: none;
+}
+#subButton {
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    background-color: #37af65;
+    border-radius: 5px;
+    color: #ffffff;
+    width: 100%;
+    height: 40px;
+    border: none;
+    margin-top: 30px;
+}
+#subButton:hover {
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    background-color: #248c46;
+    border-radius: 5px;
+    color: #ffffff;
+    width: 100%;
+    height: 40px;
+    border: none;
+    margin-top: 30px;
+}

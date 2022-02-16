@@ -1,0 +1,17 @@
+
+table {
+    border: 1px solid #cccccc;
+    width: 300px;
+    margin: auto;
+    margin-top: 300px;
+}
+thead {
+    background-color: #cccccc;
+}
+tbody tr:nth-child(odd) {
+    background-color: #99FF99;
+}
+tbody tr:hover, tbody tr:nth-child(odd):hover {
+    background-color: #000000;
+    color: #ffffff;
+}
