@@ -12,5 +12,5 @@ https://tiagocastilho.github.io/Estudo---HTML-e-CSS/Projeto%2006%20-%20Exerc%C3%
 
 ## Imagem do Projeto
 <h1 align="center">
-<img src="...">
+<img src="https://github.com/TiagoCastilho/Estudo---HTML-e-CSS/blob/master/Projeto%2006%20-%20Exerc%C3%ADcio%20-%20Um%20clone%20dos%20resultados%20do%20Google/assets/images/Resultado%20da%20pesquisa.png">
 </h1>
