@@ -48,21 +48,18 @@ Estou mantendo fiel ao desenvolvimento para que possa observar a evolução.
 <hr>
 <div>
 <h3 align="center">Projeto 07 - Exercício - Criar uma tabela zebra</h3>
-<a href="https://tiagocastilho.github.io/Estudo---HTML-e-CSS/Projeto%2007%20-%20Exerc%C3%ADcio%20-%20Criar%20uma%20tabela%20zebra/"><p align="center">👉 Acesse a página clicando aqui! 👈</p></a>
 <div align="center">
 <img height="150em" src="https://github.com/TiagoCastilho/Estudo---HTML-e-CSS/blob/master/Projeto%2007%20-%20Exerc%C3%ADcio%20-%20Criar%20uma%20tabela%20zebra/assets/images/Como%20ficou.PNG">
 </div>
 <hr>
 <div>
 <h3 align="center">Projeto 08 - Exercício - Criar um botão com CSS3</h3>
-<a href="https://tiagocastilho.github.io/Estudo---HTML-e-CSS/Projeto%2008%20-%20Exerc%C3%ADcio%20-%20Criar%20um%20bot%C3%A3o%20com%20CSS3/"><p align="center">👉 Acesse a página clicando aqui! 👈</p></a>
 <div align="center">
 <img height="150em" src="https://github.com/TiagoCastilho/Estudo---HTML-e-CSS/blob/master/Projeto%2008%20-%20Exerc%C3%ADcio%20-%20Criar%20um%20bot%C3%A3o%20com%20CSS3/assets/Como%20ficou.png">
 </div>
 <hr>
 <div>
 <h3 align="center">Projeto 09 - Exercício - Criar uma tarja de canto</h3>
-<a href="https://tiagocastilho.github.io/Estudo---HTML-e-CSS/Projeto%2009%20-%20Exerc%C3%ADcio%20-%20Criar%20uma%20tarja%20de%20canto/"><p align="center">👉 Acesse a página clicando aqui! 👈</p></a>
 <div align="center">
 <img height="270em" src="https://github.com/TiagoCastilho/Estudo---HTML-e-CSS/blob/master/Projeto%2009%20-%20Exerc%C3%ADcio%20-%20Criar%20uma%20tarja%20de%20canto/assets/images/Como%20ficou.png">
 </div>
